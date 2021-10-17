@@ -1,0 +1,1 @@
+basically click on all.sh

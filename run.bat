@@ -1,1 +1,1 @@
-./out/build/ULTRA
+cd out/build && ULTRA.exe
